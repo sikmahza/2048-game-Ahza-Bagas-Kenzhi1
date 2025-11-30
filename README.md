@@ -1,5 +1,6 @@
 # 2048-game-Ahza-Bagas-Kenzhi1
 Made by Muhammad Muliantafa Ahza, Kinza Bagas Adhistira &amp; Kenzhi Alvaro Gani
+https://www.programiz.com/online-compiler/47Dh250yyO5sy
 
 import random
 import os
