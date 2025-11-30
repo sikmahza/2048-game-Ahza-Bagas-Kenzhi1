@@ -82,5 +82,7 @@ while True:
         board = new
         add_tile(board)
 
-        python 2048_simple.py
+
+python 2048_simple.py
+
 Sorry ko saya cuma buat di web jadi ngga bisa di running jadi saya kasih kode nya aja
